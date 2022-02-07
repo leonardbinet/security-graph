@@ -3,6 +3,9 @@
 Work in progress, using https://github.com/FormidableLabs/terraform-aws-serverless terraform module, and terraform cloud.
 
 
+https://learn.hashicorp.com/tutorials/terraform/github-actions
+
+
 ## Setup
 
 ### 1. AWS account
