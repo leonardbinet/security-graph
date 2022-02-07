@@ -4,7 +4,7 @@ provider "aws" {
 
 terraform {
   cloud {
-    organization = "setup-graph"
+    organization = "security-graph"
 
     workspaces {
       tags = ["all"]
